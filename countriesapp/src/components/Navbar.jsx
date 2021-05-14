@@ -11,6 +11,14 @@ const Navbar = () => {
         <Link className="navbar-brand" to="/">
           Countries
         </Link>
+        <Link
+          className="btn btn-outline-success d-flex"
+          style={{ position: "relative", left: 1700 }}
+          to="/"
+        >
+          Back
+        </Link>
+
         <button
           className="navbar-toggler"
           type="button"
