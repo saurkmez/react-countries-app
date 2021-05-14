@@ -13,7 +13,7 @@ const Navbar = () => {
         </Link>
         <Link
           className="btn btn-outline-success d-flex"
-          style={{ position: "relative", left: 1700 }}
+          style={{ position: "relative", left: 1320 }}
           to="/"
         >
           Back
